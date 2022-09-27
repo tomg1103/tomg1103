@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomg1103
-- 👀 I’m interested in mechnical engineering, with a focus on automotive engineeriing
+- 👀 I’m interested in mechnical engineering, with a focus on automotive engineering
 - 🌱 I’m currently learning Siemens NX
 - 📫 How to reach me gilbe346@msu.edu
 
