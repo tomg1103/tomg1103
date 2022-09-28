@@ -2,6 +2,7 @@
 - 👀 I’m interested in mechnical engineering, with a focus on automotive engineering
 - 🌱 I’m currently learning Siemens NX
 - 📫 How to reach me gilbe346@msu.edu
+- 🏫 I am currently studying at Michigan State University
 
 <!---
 tomg1103/tomg1103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
