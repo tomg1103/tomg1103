@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomg1103
 - 👀 I’m interested in mechanical engineering, with a focus on automotive engineering
-- 🌱 I’m currently learning Siemens NX
+- 🌱 I’m currently developing my programming and evaluation engineering skills
 - 📫 How to reach me gilbe346@msu.edu
 - 🏫 I am currently studying at Michigan State University
 - 🛠️ I am currently working on documenting my projects here on GitHub, with the purpose of creating a design portfolio while familiarizing myself with version control, check them out!
